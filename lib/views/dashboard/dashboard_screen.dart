@@ -107,7 +107,7 @@ class _DashboardScreenState extends ConsumerState<DashboardScreen> {
         title: Row(
           children: [
             Text(
-              'Hi Anudeep',
+              'Hi Charan',
               style: AppTheme.headingStyle.copyWith(fontSize: 20),
             ),
             const SizedBox(width: 8),
