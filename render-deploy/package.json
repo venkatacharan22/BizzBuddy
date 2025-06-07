@@ -1,0 +1,26 @@
+{
+  "name": "bizzybuddy-api",
+  "version": "1.0.0",
+  "description": "Backend API for BizzyBuddy Flutter application",
+  "main": "express-server.js",
+  "scripts": {
+    "start": "node express-server.js",
+    "dev": "nodemon express-server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "author": "BizzyBuddy Team",
+  "license": "MIT"
+} 
