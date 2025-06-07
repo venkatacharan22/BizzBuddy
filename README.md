@@ -81,6 +81,18 @@ lib/
 ├── widgets/
 └── services/
 ```
+activites
+![image](https://github.com/user-attachments/assets/6fad7f8e-8e55-47e3-bbca-36356791abca)
+
+
+<img width="320" alt="image" src="https://github.com/user-attachments/assets/fac04bdc-3cae-4a08-9507-29a3da919241" />
+<img width="299" alt="image" src="https://github.com/user-attachments/assets/32803b2e-cb2a-44db-82a2-d51de2282673" />
+
+<img width="319" alt="image" src="https://github.com/user-attachments/assets/2440574c-dd65-42c4-9f97-a29fe27731a6" />
+
+
+
+
 
 ## Contributing
 
